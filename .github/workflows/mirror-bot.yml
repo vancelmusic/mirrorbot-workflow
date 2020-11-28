@@ -3,7 +3,7 @@ name: setting up environment
 on: [push]
     
 env:
- username: Area69Lab
+ username: vancelmusic
 jobs:
   build:
     runs-on: ubuntu-latest
